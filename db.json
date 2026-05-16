@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "email": "test@test.com", "password": "123" }
+  ],
+  "products": [
+    { "id": 1, "name": "Лаптоп", "quantity": 5, "price": 1200 },
+    { "id": 2, "name": "Мишка", "quantity": 20, "price": 30 }
+  ]
+}
